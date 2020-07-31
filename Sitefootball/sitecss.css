@@ -1,0 +1,276 @@
+.body{
+background-color: gray;
+color: white;
+}
+.header{
+    width: 1350px;
+    height: 130px;
+    background-color: #87AB5E;
+    padding:10px;
+    margin-left: -8px;
+    margin-top: -8px;
+
+}
+.header p{
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    left: 70px;
+    bottom: 30px;
+}
+.header img{
+    position: relative;
+    bottom: 115px;
+}
+.login{
+    width: 100px;
+    height: 30px;
+    color:black;
+    position: relative;
+    bottom: 145px;
+    left: 1000px;
+    border-radius:  5px;
+
+    border-style: none;
+    background-color:#87AB5E; 
+  color: black; 
+  border: 2px solid green;
+  transition-duration: 0.4s;
+}
+
+.login:hover{
+    background-color: green;
+    color: white;
+}
+.login p{
+    font-size: 15px;
+    font-family: 'Montserrat',sans-serif;
+    color: black;
+    position: relative;
+    top: -12px;
+   left: 3px;
+
+}
+.header button:hover{
+    background-color: green;
+}
+.nav{
+    background-color:#E1E1E1;
+    width: 1350px;
+    height: 70px;
+    border-radius: 35px 35px 0 0;
+   position: relative;
+   bottom: 30px;
+   padding: 10px;
+   margin-left: -8px;
+   margin-top: -8px;
+
+}
+.menu{
+    width: 130px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #87AB5E;
+    border-color: #87AB5E;
+    box-shadow: #A5A5A5     3px 6px 6px;
+    position: relative;
+    left: 270px;
+    border-style: none;
+    cursor: pointer;
+    transition-duration: 1s;
+}
+
+
+.news{
+    width: 130px;
+    height: 50px;
+    border-radius: 15px ;
+    background-color: #87AB5E;
+    border-color: #87AB5E;
+    box-shadow: #A5A5A5     3px 6px 6px;
+    position: relative;
+    left: 330px;
+    border-style: none;
+    cursor: pointer;
+    transition-duration: 1s;
+}
+
+.contact{
+    width: 130px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #87AB5E;
+    border-color: #87AB5E;
+    box-shadow: #A5A5A5     3px 6px 6px;
+    position: relative;
+    left: 390px;
+    border-style: none;
+    cursor: pointer;
+    transition-duration: 1s;
+}
+.about{
+    width: 130px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #87AB5E;
+    border-color: #87AB5E;
+    box-shadow: #A5A5A5     3px 6px 6px;
+    position: relative;
+    left: 450px;
+    border-style: none;
+    cursor: pointer;
+    transition-duration: 1s;
+}
+a button:hover{
+    background-color: white;
+}
+.nav p{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+position: relative;
+top: -3px;
+
+}
+.content{
+    width: 1320px;
+    height: 700px;
+    background-color: #BCBCBC;
+    position: relative;
+    right: -10px;
+    bottom: 15px;
+    border-radius: 27px;
+    box-shadow: #A5A5A5  3px 6px 6px;
+}
+.post1{
+    width: 350px;
+    height: 200px;
+    background-color:white;
+    position: relative;
+    bottom: 720px;
+    left: 50px;
+    box-shadow:#A5A5A5     3px 6px 6px;
+    border-radius: 15px;
+    background-color: #e90052;
+}
+.post1 p{
+    font-size:23px;
+    font-family:'Varela Round', sans-serif;
+    position: relative;
+    left: 15px;
+    color: black;
+}
+.post1 img{
+    position: relative;
+    left: 65px;
+    bottom: 10px;
+    border-radius: 10px;
+    transition:1s ease-in-out;    
+}
+
+.post1 img:hover{
+    color: grey;
+    opacity: 70%;
+    position: relative;
+    bottom: 25px;
+    transform: scale(1.1);
+}
+.post1 a{
+    text-decoration: none;
+}
+.footer{
+    width: 1350px;
+    height: 200px;
+    background-color: black;
+    padding: 10px;
+    position: relative;
+    right: 8px;
+    top: 340px;
+}
+.footer p{
+    font-size: 15px;
+    font-family: 'Varela Round', sans-serif;
+    color: whitesmoke;
+    position: relative;
+    left: 400px;
+}
+.footer h4{
+font-size: 12px;
+font-family: 'Montserrat', sans-serif;
+color: white;
+position: relative;
+left: 300px;
+}
+.footer h3{
+font-size: 20px;
+font-family: 'Varela Round', sans-serif;
+color: white;
+position: relative;
+right: -580px;
+bottom: 75px;
+}
+.footernav h1{
+    font-size: 15px;
+    font-family: 'Montserrat',sans-serif;
+    position: relative;
+    left: 585px;
+    bottom: -165px;
+
+}
+.footernav h1:hover{
+    color:white;
+}
+
+.footernav h2{
+font-size:15px;
+font-family:'Montserrat',sans-serif;
+position: relative;
+left:585px;
+bottom:-160px;
+}
+.footernav h2:hover{
+    color: white;
+}
+.footernav h3{
+    font-size: 15px;
+    font-family: 'Montserrat',sans-serif; 
+
+    position: relative;
+    bottom: -150px;
+    left: 585px;
+}
+.footernav h3:hover{
+color: white;
+}
+.footernav h4{
+    font-size: 15px;
+    font-family:'Montserrat',sans-serif;
+    position: relative;
+bottom: -135px;
+left: 585px;
+}
+.footernav a{
+    text-decoration: none;
+    color: grey;
+    opacity: 50%;
+}
+.footernav a:hover{
+    color: white;
+}
+.media img{
+    position: relative;
+    bottom: 22px;
+    left: 695px;
+opacity: 60%;
+margin: 2px;
+}
+.media img:hover{
+opacity: 100%;
+}
+.media h2{
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    position: relative;
+    left: 700px;
+    bottom: 10px;
+}
